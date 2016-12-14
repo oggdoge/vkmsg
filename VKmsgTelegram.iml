@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="telegrambots-2.4.4.1-jar-with-dependencies" level="project" />
+    <orderEntry type="library" name="com.vk.api:sdk:0.3.7" level="project" />
   </component>
 </module>
